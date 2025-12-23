@@ -83,8 +83,9 @@ This work is relevant for **Industry 4.0 and Smart Home security**:
   - Integration into Smart Home security dashboards
 
 ---
-```
+
 ## Repository structure
+```
 ├── LAB5_Project_ANDRIANTSIZAFY.ipynb # Final notebook 
 ├── filterData.py # Dataset filtering utilities  
 ├── importData.py # Dataset import utilities 
