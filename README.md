@@ -85,9 +85,9 @@ This work is relevant for **Industry 4.0 and Smart Home security**:
 ---
 
 ## Repository structure
-├── LAB5_Project_ANDRIANTSIZAFY.ipynb # Final notebook //
-├── filterData.py # Dataset filtering utilities // 
-├── importData.py # Dataset import utilities //
+├── LAB5_Project_ANDRIANTSIZAFY.ipynb # Final notebook 
+├── filterData.py # Dataset filtering utilities  
+├── importData.py # Dataset import utilities 
 ├── README.md
 
 
