@@ -86,10 +86,11 @@ This work is relevant for **Industry 4.0 and Smart Home security**:
 
 ## Repository structure
 ```
-├── LAB5_Project_ANDRIANTSIZAFY.ipynb # Final notebook 
+├── Analysis_and_Classification_of_Security_Vulnerabilities_in_Smart_Home_IoT_Devices
+├── Projet_IOT_Vulnerability_Classification_ML.ipynb # Final notebook
+├── README.md
 ├── filterData.py # Dataset filtering utilities  
 ├── importData.py # Dataset import utilities 
-├── README.md
 ``` 
 
 ---
